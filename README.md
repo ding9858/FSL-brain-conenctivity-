@@ -1,0 +1,1 @@
+This is a project using FSL and matlab tools to do a data preprocessing pipeline for the brain connectivity. It includes the tractography, registration for different modalities like PET, T1, resting state MRI, DWI and so on. The details is in the Readme.pdf
